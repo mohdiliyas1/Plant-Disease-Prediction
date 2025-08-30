@@ -1,0 +1,4 @@
+# Ignore dataset file
+Plant_Disease_Dataset.zip
+trained_model.h5
+trained_model.keras
